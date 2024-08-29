@@ -21,6 +21,7 @@ def get_weekly_track_chart(username, api_key, limit, page, start_date, end_date)
 def write_top_tracks_to_file(top_tracks):
     # Write the top tracks to a file
     with open('top_tracks.txt', 'w') as file:
+        file.write(f"Date range: {start_date} - {end_date}\n\n")
         for track in top_tracks:
             file.write(f"Track: {track['name']}\n")
             file.write(f"Artist: {track['artist']['#text']}\n")
