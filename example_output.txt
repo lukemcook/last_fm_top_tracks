@@ -1,400 +1,400 @@
-Track: STUCK MAN
-Artist: DIR EN GREY
+Track: Fight Music
+Artist: D12
+Play Count: 73
+---
+Track: Purple Pills
+Artist: D12
+Play Count: 69
+---
+Track: 4ÆM
+Artist: Grimes
+Play Count: 51
+---
+Track: White Lines (Don't Do It) - Long Version
+Artist: Grandmaster Flash
+Play Count: 45
+---
+Track: Only Ash Remains
+Artist: Necrophagist
 Play Count: 34
 ---
-Track: Bounce
-Artist: SHOW GUN
+Track: Skull & Crossbones
+Artist: Del The Funky Homosapien
 Play Count: 33
 ---
-Track: SWALLOW TRAP
-Artist: SHOW GUN
+Track: Insane in the Brain
+Artist: Cypress Hill
 Play Count: 32
 ---
-Track: All My Friends Are Dead
-Artist: Turbonegro
-Play Count: 30
+Track: Proto Culture
+Artist: Del The Funky Homosapien
+Play Count: 32
 ---
-Track: Livin' It Up
-Artist: Hieroglyphics
-Play Count: 27
+Track: Mutilate the Stillborn
+Artist: Necrophagist
+Play Count: 32
 ---
-Track: Meidänkaltaisillemme
-Artist: Stam1na
-Play Count: 26
+Track: Mean Man
+Artist: W.A.S.P.
+Play Count: 32
 ---
-Track: kikoeruka
-Artist: Meiso
+Track: Hits from the Bong
+Artist: Cypress Hill
+Play Count: 29
+---
+Track: Tequila Sunrise (feat. Barron Ricks)
+Artist: Cypress Hill
+Play Count: 29
+---
+Track: (Rock) Superstar
+Artist: Cypress Hill
 Play Count: 25
 ---
-Track: Creep
-Artist: Brownz
+Track: The Ancient Queen - Remastered
+Artist: Emperor
+Play Count: 25
+---
+Track: From the Dark Past
+Artist: Mayhem
+Play Count: 25
+---
+Track: Mother North
+Artist: Satyricon
+Play Count: 25
+---
+Track: Mistadobalina - Remastered Version
+Artist: Del The Funky Homosapien
 Play Count: 24
 ---
-Track: Vigilante (original mix)
-Artist: Zardonic
+Track: In My Kingdom Cold
+Artist: Immortal
 Play Count: 24
 ---
-Track: Jump Around
-Artist: House of Pain
-Play Count: 22
----
-Track: Top o' the Morning to Ya
-Artist: House of Pain
+Track: If You Must
+Artist: Del The Funky Homosapien
 Play Count: 21
 ---
-Track: D.S.M.
-Artist: Stam1na
-Play Count: 21
+Track: Eaten
+Artist: Bloodbath
+Play Count: 20
 ---
-Track: damage
-Artist: non prophets
+Track: Clone
+Artist: Gojira
+Play Count: 20
+---
+Track: Fight the Power
+Artist: Public Enemy
+Play Count: 20
+---
+Track: How I Could Just Kill a Man
+Artist: Cypress Hill
 Play Count: 19
 ---
-Track: Pala palalta
-Artist: Stam1na
+Track: Oblivion
+Artist: Grimes
+Play Count: 19
+---
+Track: Violence - Original Mix
+Artist: Grimes
+Play Count: 19
+---
+Track: Extreme Unction
+Artist: Necrophagist
+Play Count: 19
+---
+Track: Symbiotic In Theory
+Artist: Necrophagist
+Play Count: 19
+---
+Track: B.Y.O.B.
+Artist: System of a Down
+Play Count: 19
+---
+Track: Invaders Must Die
+Artist: The Prodigy
+Play Count: 19
+---
+Track: Tyrants
+Artist: Immortal
 Play Count: 18
 ---
-Track: Kuudet raamit
-Artist: Stam1na
+Track: Sad but True
+Artist: Metallica
+Play Count: 18
+---
+Track: Disappear
+Artist: Akercocke
 Play Count: 17
 ---
-Track: Crush It (original mix)
-Artist: Zardonic
+Track: Phoney Phranchise
+Artist: Del The Funky Homosapien
 Play Count: 17
 ---
-Track: Doki Doki ☆ Morning
-Artist: BABYMETAL
+Track: K.I.N.G
+Artist: Satyricon
+Play Count: 17
+---
+Track: Chop Suey!
+Artist: System of a Down
+Play Count: 17
+---
+Track: Radio/Video
+Artist: System of a Down
+Play Count: 17
+---
+Track: Everytime I Die
+Artist: Children of Bodom
 Play Count: 16
 ---
-Track: Intercept
-Artist: Nervous_testpilot
+Track: Mask of Sanity
+Artist: Children of Bodom
 Play Count: 16
 ---
-Track: Sensei On the Block
-Artist: Mos Def
+Track: Forest
+Artist: System of a Down
+Play Count: 16
+---
+Track: Burn In Hell
+Artist: Twisted Sister
+Play Count: 16
+---
+Track: X
+Artist: Xzibit
+Play Count: 16
+---
+Track: We Appreciate Power
+Artist: Grimes
+Play Count: 15
+---
+Track: Harder Than You Think
+Artist: Public Enemy
+Play Count: 15
+---
+Track: Terminator Oscillator
+Artist: Static-X
+Play Count: 15
+---
+Track: Old School Hollywood
+Artist: System of a Down
+Play Count: 15
+---
+Track: Violent Pornography
+Artist: System of a Down
+Play Count: 15
+---
+Track: Myr
+Artist: Taake
+Play Count: 15
+---
+Track: In the Minds of Evil
+Artist: Deicide
 Play Count: 14
 ---
-Track: Tranquility
-Artist: Direct
-Play Count: 12
+Track: Mistadobalina
+Artist: Del The Funky Homosapien
+Play Count: 14
 ---
-Track: Fukyouwaon
-Artist: Meiso
-Play Count: 12
+Track: That's the Joint
+Artist: Funky 4 + 1
+Play Count: 14
 ---
-Track: Strong
-Artist: MIYAVI
-Play Count: 12
----
-Track: Friend
-Artist: OZROSAURUS
-Play Count: 12
----
-Track: Against All Odds (original mix)
-Artist: Zardonic
-Play Count: 12
----
-Track: REIKETSU NARISEBA
-Artist: DIR EN GREY
-Play Count: 10
----
-Track: Jitensha
-Artist: Meiso
-Play Count: 10
----
-Track: King Nothing
+Track: No leaf Clover - Live
 Artist: Metallica
-Play Count: 10
+Play Count: 14
 ---
-Track: Vision
-Artist: Nervous_testpilot
-Play Count: 10
+Track: Omen
+Artist: The Prodigy
+Play Count: 14
 ---
-Track: Marttyyri
-Artist: Stam1na
-Play Count: 10
+Track: Shame on a Nigga
+Artist: Wu-Tang Clan
+Play Count: 14
 ---
-Track: Override (original mix)
-Artist: Zardonic
-Play Count: 10
+Track: Inner Sanctum
+Artist: Akercocke
+Play Count: 13
 ---
-Track: Gimme Chocolate!!
-Artist: BABYMETAL
-Play Count: 9
+Track: Instigator
+Artist: D12
+Play Count: 13
 ---
-Track: Skeptics
-Artist: Benton
-Play Count: 9
+Track: Fuck Your God
+Artist: Deicide
+Play Count: 13
 ---
-Track: Rebel Yell
-Artist: Billy Idol
-Play Count: 9
+Track: Dismembered Self-Immolation
+Artist: Necrophagist
+Play Count: 13
 ---
-Track: Turn It Up
-Artist: Grum
-Play Count: 9
+Track: Chic 'N' Stu
+Artist: System of a Down
+Play Count: 13
 ---
-Track: Mademoiselle
-Artist: Luc Angenehm
-Play Count: 9
+Track: Preservation
+Artist: Aesop Rock
+Play Count: 12
 ---
-Track: What's My Name?
-Artist: MIYAVI
-Play Count: 9
+Track: C U When U Get There
+Artist: Coolio
+Play Count: 12
 ---
-Track: 冚家拎
-Artist: LMF
-Play Count: 8
+Track: I Wanna Get High
+Artist: Cypress Hill
+Play Count: 12
 ---
-Track: Banjo No Koma
-Artist: Meiso
-Play Count: 8
+Track: Subjected to a Beating
+Artist: Dying Fetus
+Play Count: 12
 ---
-Track: boueihonnou
-Artist: Meiso
-Play Count: 8
+Track: Pagan Fears
+Artist: Mayhem
+Play Count: 12
 ---
-Track: Mathematics
-Artist: Mos Def
-Play Count: 8
+Track: Tornado Of Souls - Remastered 2004
+Artist: Megadeth
+Play Count: 12
 ---
-Track: Engage
-Artist: Nervous_testpilot
-Play Count: 8
+Track: Fermented Offal Discharge
+Artist: Necrophagist
+Play Count: 12
 ---
-Track: Terrible Lie - Remastered
-Artist: Nine Inch Nails
-Play Count: 8
+Track: Sonne
+Artist: Rammstein
+Play Count: 12
 ---
-Track: Bad M.F.
-Artist: Pharoahe Monch
-Play Count: 8
+Track: The Pentagram Burns
+Artist: Satyricon
+Play Count: 12
 ---
-Track: Damage
-Artist: Pharoahe Monch
-Play Count: 8
+Track: Miami
+Artist: Will Smith
+Play Count: 12
 ---
-Track: Tense Times
-Artist: Roman Flügel
-Play Count: 8
+Track: Insentience
+Artist: Akercocke
+Play Count: 11
 ---
-Track: Song 4
-Artist: BABYMETAL
-Play Count: 7
----
-Track: Dark Divinity
-Artist: Keep of Kalessin
-Play Count: 7
----
-Track: A Functioning God
-Artist: Nervous_testpilot
-Play Count: 7
----
-Track: Concentrate
-Artist: Nervous_testpilot
-Play Count: 7
----
-Track: Pienet vihreät miehet
-Artist: Stam1na
-Play Count: 7
----
-Track: Mr. Roboto
-Artist: Styx
-Play Count: 7
----
-Track: Viva Namida
-Artist: Yasuyuki Okamura
-Play Count: 7
----
-Track: Pure Power (original mix)
-Artist: Zardonic
-Play Count: 7
----
-Track: Respect (到仆街)
-Artist: 24herbs
-Play Count: 6
----
-Track: Work It
-Artist: 24herbs
-Play Count: 6
----
-Track: Definition
-Artist: Black Star
-Play Count: 6
----
-Track: Over The Top
-Artist: DJ Toshi Featuring Zeebra
-Play Count: 6
----
-Track: O.P. (feat. Richie Branson & Storyville)
-Artist: Mega Ran
-Play Count: 6
----
-Track: No Leaf Clover (Live With The SFSO)
-Artist: Metallica
-Play Count: 6
----
-Track: Panzerfaust
-Artist: Stam1na
-Play Count: 6
----
-Track: Raise Hell (original mix)
-Artist: Zardonic
-Play Count: 6
----
-Track: 西人
-Artist: 24herbs
-Play Count: 5
----
-Track: Catch Me If You Can
-Artist: BABYMETAL
-Play Count: 5
----
-Track: Brass Monkey
-Artist: Beastie Boys
-Play Count: 5
----
-Track: High Plains Drifter - 2009 Digital Remaster
-Artist: Beastie Boys
-Play Count: 5
----
-Track: Hold It Now, Hit It
-Artist: Beastie Boys
-Play Count: 5
----
-Track: Twilite Speedball
-Artist: Mos Def
-Play Count: 5
----
-Track: Our Heroes
-Artist: Nervous_testpilot
-Play Count: 5
----
-Track: The Plan
-Artist: Nervous_testpilot
-Play Count: 5
----
-Track: Me, I'm Not
-Artist: Nine Inch Nails
-Play Count: 5
----
-Track: Floating Point
-Artist: Off the Sky
-Play Count: 5
----
-Track: Simon Says
-Artist: Pharoahe Monch
-Play Count: 5
----
-Track: The Jungle
-Artist: Pharoahe Monch
-Play Count: 5
----
-Track: Mätä hohtava omena
-Artist: Stam1na
-Play Count: 5
----
-Track: Golden Boy
-Artist: YÃ¸r
-Play Count: 5
----
-Track: For Justice (original mix)
-Artist: Zardonic
-Play Count: 5
----
-Track: In the Zone
-Artist: Auralnauts
-Play Count: 4
----
-Track: Evisceration Plague
+Track: Red Before Black
 Artist: Cannibal Corpse
-Play Count: 4
+Play Count: 11
 ---
-Track: Make Them Suffer
-Artist: Cannibal Corpse
-Play Count: 4
+Track: The Message
+Artist: Grandmaster Flash
+Play Count: 11
 ---
-Track: Progeny
-Artist: Celtic Frost
-Play Count: 4
----
-Track: Taeuschungs-Blume
-Artist: Dominik Eulberg
-Play Count: 4
----
-Track: The Majesty of the Nightsky (Alternative Mix 1993) - Previously Unreleased
-Artist: Emperor
-Play Count: 4
----
-Track: Days For Minor Keys
-Artist: Gregor Tresher
-Play Count: 4
----
-Track: The Mayor
-Artist: Hieroglyphics
-Play Count: 4
----
-Track: Put Your Head Out
+Track: I'm A Swing It
 Artist: House of Pain
-Play Count: 4
+Play Count: 11
 ---
-Track: Thin Line
-Artist: Jurassic 5
-Play Count: 4
+Track: Stridig
+Artist: Ihsahn
+Play Count: 11
 ---
-Track: Launch Was Ok
-Artist: Ksky
-Play Count: 4
+Track: Sons of Northern Darkness
+Artist: Immortal
+Play Count: 11
 ---
-Track: 今宵多珍重
-Artist: LMF
-Play Count: 4
+Track: Holy Wars...The Punishment Due - Remastered 2004
+Artist: Megadeth
+Play Count: 11
 ---
-Track: Miss Communication
-Artist: Mega Ran
-Play Count: 4
+Track: Fisheye
+Artist: Shining
+Play Count: 11
 ---
-Track: Risouzou
-Artist: Meiso
-Play Count: 4
+Track: Revenga
+Artist: System of a Down
+Play Count: 11
 ---
-Track: Master of Puppets
-Artist: Metallica
-Play Count: 4
+Track: Toxicity
+Artist: System of a Down
+Play Count: 11
 ---
-Track: Focus
-Artist: Nervous_testpilot
-Play Count: 4
+Track: Maneater
+Artist: W.A.S.P.
+Play Count: 11
 ---
-Track: Gridlocked
-Artist: Nervous_testpilot
-Play Count: 4
+Track: The Neutron Bomber
+Artist: W.A.S.P.
+Play Count: 11
 ---
-Track: Meet Your Master
+Track: A Final Glance Back Before Departing
+Artist: Akercocke
+Play Count: 10
+---
+Track: I Am the Thorn
+Artist: Cradle of Filth
+Play Count: 10
+---
+Track: Down With the Sickness
+Artist: Disturbed
+Play Count: 10
+---
+Track: My Name Is Dark - Art Mix
+Artist: Grimes
+Play Count: 10
+---
+Track: Daemon Spawn
+Artist: Mayhem
+Play Count: 10
+---
+Track: Foul Body Autopsy
+Artist: Necrophagist
+Play Count: 10
+---
+Track: Terrible Lie
 Artist: Nine Inch Nails
-Play Count: 4
+Play Count: 10
 ---
-Track: Romantic
-Artist: OZROSAURUS
-Play Count: 4
+Track: AUSLÄNDER
+Artist: Rammstein
+Play Count: 10
 ---
-Track: Riant
-Artist: Recondite
-Play Count: 4
+Track: Angel of Death
+Artist: Slayer
+Play Count: 10
 ---
-Track: Cat People
-Artist: Schaffer the Darklord
-Play Count: 4
+Track: Push It
+Artist: Static-X
+Play Count: 10
 ---
-Track: Valhe
-Artist: Stam1na
-Play Count: 4
+Track: I Am the Black Wizards - "Noregs Vaapen" LP Bonus Track 2011
+Artist: Taake
+Play Count: 10
 ---
-Track: 24herbs (Remix)
-Artist: 24herbs
-Play Count: 3
+Track: Rebel In The F.D.G.
+Artist: W.A.S.P.
+Play Count: 10
 ---
-Track: 我想
-Artist: 24herbs
-Play Count: 3
+Track: Snowman
+Artist: WYS
+Play Count: 10
+---
+Track: Familiar Ghosts
+Artist: Akercocke
+Play Count: 9
+---
+Track: Unbound by Sin
+Artist: Akercocke
+Play Count: 9
+---
+Track: Deader
+Artist: Bloodbath
+Play Count: 9
+---
+Track: Frostrite
+Artist: Borknagar
+Play Count: 9
+---
+Track: Corner Story
+Artist: Del The Funky Homosapien
+Play Count: 9
+---
+Track: X Gon' Give It To Ya
+Artist: DMX
+Play Count: 9
+---
+Track: I Am The Black Wizards - Remastered
+Artist: Emperor
+Play Count: 9
 ---
